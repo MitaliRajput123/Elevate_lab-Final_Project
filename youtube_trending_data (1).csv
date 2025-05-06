@@ -1,0 +1,101 @@
+video_id,title,channel_title,category,publish_time,country,views,likes,dislikes,comment_count,tags,sentiment_score,trending_duration_days
+vid_000,Video 84,Channel_0,News,2024-01-12,DE,123632,23789,7400,19968,vlog,0.43,21
+vid_001,Video 54,Channel_1,Music,2024-02-08,IN,947012,45190,8082,9588,breaking news,0.79,5
+vid_002,Video 71,Channel_2,News,2024-01-02,IN,261451,35757,4171,11829,breaking news,0.02,5
+vid_003,Video 46,Channel_3,News,2024-01-03,IN,13051,10323,4360,8053,breaking news,0.06,19
+vid_004,Video 45,Channel_4,Music,2024-02-25,GB,714107,42475,2502,3330,vlog,-0.79,27
+vid_005,Video 40,Channel_5,News,2024-03-21,DE,386836,10040,717,19087,live,-0.11,14
+vid_006,Video 23,Channel_6,Education,2024-02-28,US,621523,16864,2782,8662,live,0.07,26
+vid_007,Video 81,Channel_7,Gaming,2024-01-02,CA,981525,5111,4946,7114,breaking news,-0.52,4
+vid_008,Video 11,Channel_8,Gaming,2024-01-02,US,731772,28163,5486,13323,tutorial,-0.46,25
+vid_009,Video 1,Channel_9,Music,2024-04-01,CA,199407,39146,8335,1353,funny,-0.25,13
+vid_010,Video 19,Channel_0,Sports,2024-02-23,US,459395,31477,4980,10975,vlog,-0.96,10
+vid_011,Video 31,Channel_1,Music,2024-03-27,DE,959597,29668,7266,11023,funny,-0.36,25
+vid_012,Video 74,Channel_2,Sports,2024-04-05,CA,472894,49615,4491,667,tutorial,-0.58,18
+vid_013,Video 34,Channel_3,Gaming,2024-04-06,GB,221810,25971,7192,9337,vlog,-0.35,8
+vid_014,Video 91,Channel_4,Music,2024-01-01,US,967238,23187,5588,13659,breaking news,-0.76,8
+vid_015,Video 5,Channel_5,Entertainment,2024-01-19,US,737975,1351,7651,3719,live,0.78,7
+vid_016,Video 77,Channel_6,Education,2024-01-02,CA,83523,18571,3636,19129,funny,0.19,8
+vid_017,Video 78,Channel_7,News,2024-02-22,GB,770463,7333,1167,7483,review,0.36,14
+vid_018,Video 13,Channel_8,Sports,2024-02-13,GB,104476,12438,1062,539,review,0.58,19
+vid_019,Video 32,Channel_9,Entertainment,2024-03-30,DE,243841,35695,2156,4964,tutorial,-0.0,29
+vid_020,Video 56,Channel_0,News,2024-02-01,GB,813451,26644,7860,4835,breaking news,-0.83,6
+vid_021,Video 89,Channel_1,News,2024-03-10,GB,880045,4500,5161,6042,funny,0.07,1
+vid_022,Video 27,Channel_2,Music,2024-02-01,GB,232866,5552,5305,14837,breaking news,0.17,23
+vid_023,Video 43,Channel_3,News,2024-03-08,IN,96672,36006,6541,7312,funny,0.49,15
+vid_024,Video 70,Channel_4,Education,2024-02-24,DE,608135,28574,4729,5320,tutorial,-0.14,1
+vid_025,Video 16,Channel_5,Entertainment,2024-03-15,US,354894,38655,9348,13216,tutorial,-0.74,25
+vid_026,Video 41,Channel_6,News,2024-02-25,CA,744994,41270,7330,2779,review,-0.43,17
+vid_027,Video 97,Channel_7,Music,2024-01-17,US,38251,32820,5334,17308,breaking news,-0.27,1
+vid_028,Video 10,Channel_8,Education,2024-02-07,DE,637769,38804,8924,1581,vlog,0.29,15
+vid_029,Video 73,Channel_9,Gaming,2024-01-24,CA,384710,46747,4330,19708,review,0.14,23
+vid_030,Video 12,Channel_0,Entertainment,2024-03-09,DE,560233,4413,8010,12677,breaking news,-0.29,2
+vid_031,Video 48,Channel_1,News,2024-04-07,GB,887284,17950,6801,5713,review,0.97,14
+vid_032,Video 86,Channel_2,Music,2024-03-10,CA,42217,24607,4846,16639,vlog,0.21,21
+vid_033,Video 29,Channel_3,Gaming,2024-03-26,GB,18308,21264,6731,4804,live,-0.53,8
+vid_034,Video 94,Channel_4,Gaming,2024-01-11,US,278093,43904,7241,18222,live,-0.8,8
+vid_035,Video 6,Channel_5,Sports,2024-01-16,US,193062,20991,953,10136,live,-0.69,19
+vid_036,Video 67,Channel_6,Education,2024-04-06,CA,404366,38994,2539,9,live,-0.51,7
+vid_037,Video 66,Channel_7,News,2024-03-13,CA,754840,3873,7056,19255,funny,-0.68,19
+vid_038,Video 36,Channel_8,Music,2024-02-28,DE,110235,12661,1542,5124,live,-0.63,6
+vid_039,Video 17,Channel_9,Sports,2024-03-10,DE,84740,32496,5293,1015,vlog,-0.43,6
+vid_040,Video 50,Channel_0,Education,2024-03-20,GB,388496,27622,1191,2193,tutorial,-0.65,3
+vid_041,Video 35,Channel_1,Sports,2024-04-02,CA,863049,35350,6313,8415,tutorial,0.79,7
+vid_042,Video 8,Channel_2,Entertainment,2024-01-03,US,760201,27850,6938,13550,funny,-0.84,19
+vid_043,Video 96,Channel_3,Education,2024-01-20,DE,813328,27972,2681,14512,live,0.05,8
+vid_044,Video 28,Channel_4,Education,2024-02-28,DE,927230,29261,9409,4158,live,-0.18,10
+vid_045,Video 20,Channel_5,News,2024-02-05,US,187247,25851,1540,6970,live,0.96,20
+vid_046,Video 82,Channel_6,Education,2024-01-19,DE,673165,23632,6172,6938,review,-0.78,15
+vid_047,Video 26,Channel_7,Sports,2024-03-30,GB,539525,49549,5541,13772,breaking news,-0.2,15
+vid_048,Video 63,Channel_8,Education,2024-03-07,CA,30056,15805,9580,18017,review,0.94,29
+vid_049,Video 14,Channel_9,News,2024-01-19,US,186615,10317,1365,10344,breaking news,0.73,1
+vid_050,Video 25,Channel_0,News,2024-01-20,CA,197628,11761,8691,7266,live,0.63,20
+vid_051,Video 4,Channel_1,Entertainment,2024-04-05,DE,648836,917,9872,8702,live,-0.48,7
+vid_052,Video 18,Channel_2,Sports,2024-03-11,DE,383632,42076,8702,384,review,-0.66,27
+vid_053,Video 39,Channel_3,Gaming,2024-02-21,US,144415,20858,7494,404,review,0.34,4
+vid_054,Video 9,Channel_4,Gaming,2024-02-02,GB,416716,3767,4312,8175,breaking news,0.86,29
+vid_055,Video 79,Channel_5,Education,2024-02-09,IN,456438,17709,1324,15158,tutorial,0.11,6
+vid_056,Video 7,Channel_6,Entertainment,2024-02-08,US,563663,24552,9347,12763,breaking news,0.14,25
+vid_057,Video 65,Channel_7,Music,2024-03-22,IN,675022,39013,3141,18384,review,-0.44,1
+vid_058,Video 37,Channel_8,Education,2024-01-01,IN,551252,26592,7419,9860,vlog,0.54,29
+vid_059,Video 90,Channel_9,Entertainment,2024-01-11,GB,647717,11838,3486,5989,review,-0.63,5
+vid_060,Video 57,Channel_0,Sports,2024-04-01,IN,262764,912,1810,15106,vlog,-0.35,27
+vid_061,Video 100,Channel_1,Sports,2024-02-26,IN,724998,8043,6588,17844,funny,-0.15,23
+vid_062,Video 55,Channel_2,Sports,2024-03-29,GB,476882,40855,2923,3636,review,0.02,1
+vid_063,Video 44,Channel_3,Sports,2024-02-19,IN,750427,33996,5301,10916,funny,-0.52,4
+vid_064,Video 51,Channel_4,Sports,2024-01-23,IN,522153,24048,4186,4809,tutorial,-0.77,22
+vid_065,Video 68,Channel_5,Entertainment,2024-01-31,IN,77215,27884,8905,13456,breaking news,0.22,2
+vid_066,Video 47,Channel_6,Entertainment,2024-04-03,US,865474,44925,5977,15444,vlog,-0.42,10
+vid_067,Video 69,Channel_7,News,2024-02-11,US,154356,39256,4268,5997,breaking news,0.16,5
+vid_068,Video 62,Channel_8,Gaming,2024-04-08,US,213861,19388,4748,2048,funny,-0.69,27
+vid_069,Video 98,Channel_9,Sports,2024-01-07,GB,365612,36235,4849,12338,vlog,-0.04,10
+vid_070,Video 80,Channel_0,Music,2024-01-16,DE,464605,47795,9435,17100,breaking news,0.07,1
+vid_071,Video 42,Channel_1,Entertainment,2024-03-30,IN,19435,49316,3709,4544,review,-0.9,22
+vid_072,Video 59,Channel_2,Music,2024-02-29,IN,457556,18006,9273,4976,live,-0.33,6
+vid_073,Video 49,Channel_3,Music,2024-01-02,GB,709438,20963,6619,12775,funny,-0.73,13
+vid_074,Video 99,Channel_4,Music,2024-01-01,IN,875264,18455,8647,10015,breaking news,-0.87,15
+vid_075,Video 58,Channel_5,News,2024-02-17,US,585581,38341,9086,3419,funny,0.98,4
+vid_076,Video 76,Channel_6,Entertainment,2024-01-12,DE,88781,5604,9576,14430,funny,-0.36,13
+vid_077,Video 33,Channel_7,Music,2024-03-09,CA,201475,35411,3072,7239,vlog,0.62,24
+vid_078,Video 95,Channel_8,Sports,2024-02-06,IN,170196,23690,6530,14489,vlog,-0.49,20
+vid_079,Video 60,Channel_9,Education,2024-02-01,US,236507,7857,504,16633,live,0.36,24
+vid_080,Video 64,Channel_0,Music,2024-01-09,CA,316063,32979,1214,10357,review,0.52,15
+vid_081,Video 85,Channel_1,News,2024-04-08,DE,774121,45311,1531,17154,funny,0.19,29
+vid_082,Video 38,Channel_2,Entertainment,2024-01-19,CA,786665,36708,7576,4363,breaking news,-0.06,8
+vid_083,Video 30,Channel_3,News,2024-02-17,US,700607,20650,823,10176,tutorial,-0.18,5
+vid_084,Video 2,Channel_4,Music,2024-03-20,CA,131172,6144,928,17461,funny,-0.3,29
+vid_085,Video 53,Channel_5,Entertainment,2024-01-03,GB,366902,43786,5029,8427,funny,0.86,15
+vid_086,Video 22,Channel_6,Education,2024-01-20,CA,494963,47820,133,8580,live,0.66,4
+vid_087,Video 3,Channel_7,Music,2024-01-24,IN,465968,3414,2105,4858,review,0.93,12
+vid_088,Video 24,Channel_8,News,2024-02-23,IN,328717,21852,3627,10040,tutorial,-0.75,13
+vid_089,Video 88,Channel_9,Gaming,2024-02-02,GB,69101,46852,6316,19198,vlog,0.46,2
+vid_090,Video 92,Channel_0,Sports,2024-01-24,US,505972,45412,1852,19758,vlog,0.88,27
+vid_091,Video 75,Channel_1,News,2024-03-15,IN,298790,14897,4910,15254,breaking news,-0.64,19
+vid_092,Video 87,Channel_2,Entertainment,2024-03-12,DE,900617,42055,4175,11470,tutorial,-0.87,19
+vid_093,Video 83,Channel_3,Music,2024-02-05,IN,557337,47459,5348,1252,vlog,0.48,4
+vid_094,Video 21,Channel_4,Sports,2024-02-07,IN,744965,1228,9442,6996,breaking news,0.15,4
+vid_095,Video 61,Channel_5,Music,2024-03-24,US,370260,1198,6190,12173,review,0.68,26
+vid_096,Video 72,Channel_6,Entertainment,2024-04-08,CA,893811,40454,1256,4673,breaking news,-0.72,11
+vid_097,Video 15,Channel_7,Music,2024-03-29,IN,602673,47780,3376,15781,vlog,0.59,27
+vid_098,Video 93,Channel_8,Gaming,2024-04-08,GB,660419,14423,5645,13051,live,-0.6,5
+vid_099,Video 52,Channel_9,Sports,2024-01-25,CA,443374,17279,3486,6881,live,-0.67,20
