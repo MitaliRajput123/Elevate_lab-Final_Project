@@ -1,0 +1,101 @@
+Date,Product Category,Sub-Category,Region,Sales,Profit,Revenue,Quantity Sold,Inventory Days,Season
+2025-01-23,Electronics,Camera,West,156,187,343,22,22,Fall
+2025-08-11,Apparel,Shoes,South,979,193,1172,14,72,Spring
+2025-08-17,Electronics,Mobile,East,632,30,662,93,72,Summer
+2025-12-06,Apparel,Jeans,East,148,31,179,82,45,Winter
+2025-03-22,Home Appliances,Vacuum Cleaner,South,710,153,863,89,10,Spring
+2025-12-22,Furniture,Table,West,619,185,804,33,75,Spring
+2025-09-29,Electronics,Mobile,South,671,156,827,78,72,Summer
+2025-01-24,Apparel,Shoes,West,867,191,1058,22,40,Fall
+2025-03-04,Electronics,Laptop,South,199,131,330,15,55,Winter
+2025-07-30,Groceries,Snacks,South,562,10,572,36,75,Fall
+2025-10-07,Electronics,Laptop,East,607,135,742,7,22,Summer
+2025-08-19,Groceries,Vegetables,North,250,150,400,34,39,Summer
+2025-06-23,Apparel,Shirts,East,110,47,157,70,18,Summer
+2025-05-03,Furniture,Chair,South,412,135,547,4,72,Spring
+2025-02-12,Furniture,Sofa,East,585,37,622,53,42,Summer
+2025-03-17,Apparel,Shirts,North,945,86,1031,44,65,Fall
+2025-07-07,Home Appliances,Vacuum Cleaner,East,157,31,188,93,21,Spring
+2025-08-25,Home Appliances,Mixer,North,878,73,951,16,13,Winter
+2025-09-21,Groceries,Snacks,East,816,24,840,49,35,Winter
+2025-03-14,Apparel,Shoes,North,702,134,836,26,20,Summer
+2025-11-20,Home Appliances,Vacuum Cleaner,West,262,109,371,35,37,Fall
+2025-12-22,Furniture,Sofa,South,116,32,148,23,30,Fall
+2025-08-19,Home Appliances,Vacuum Cleaner,West,637,85,722,30,34,Winter
+2025-05-08,Groceries,Beverages,East,241,72,313,47,39,Fall
+2025-07-09,Furniture,Chair,East,188,175,363,44,32,Summer
+2025-03-05,Home Appliances,Vacuum Cleaner,West,637,51,688,81,27,Summer
+2025-02-08,Apparel,Shirts,East,661,92,753,10,15,Summer
+2025-04-03,Electronics,Laptop,South,603,182,785,96,90,Fall
+2025-03-27,Apparel,Shirts,West,268,53,321,77,67,Fall
+2025-06-21,Electronics,Camera,East,405,130,535,36,69,Spring
+2025-06-25,Home Appliances,Vacuum Cleaner,South,934,159,1093,85,13,Summer
+2025-12-17,Electronics,Camera,North,505,133,638,92,65,Fall
+2025-11-07,Furniture,Table,South,649,45,694,69,37,Winter
+2025-10-11,Electronics,Mobile,West,641,155,796,67,78,Summer
+2025-09-25,Groceries,Snacks,North,156,117,273,6,81,Summer
+2025-03-08,Electronics,Camera,South,524,106,630,67,50,Winter
+2025-11-01,Electronics,Camera,North,582,127,709,27,20,Winter
+2025-10-11,Electronics,Mobile,West,612,59,671,74,80,Summer
+2025-04-29,Electronics,Laptop,North,957,178,1135,40,44,Winter
+2025-01-28,Groceries,Beverages,South,545,119,664,97,27,Winter
+2025-06-22,Electronics,Laptop,East,313,168,481,26,49,Winter
+2025-01-25,Furniture,Sofa,West,149,196,345,57,14,Fall
+2025-02-11,Electronics,Camera,North,132,169,301,59,25,Spring
+2025-10-03,Furniture,Sofa,West,500,30,530,33,74,Summer
+2025-04-24,Home Appliances,Microwave,North,808,46,854,24,15,Summer
+2025-05-12,Furniture,Table,East,842,146,988,17,60,Spring
+2025-09-20,Home Appliances,Vacuum Cleaner,South,733,186,919,54,55,Fall
+2025-07-05,Home Appliances,Microwave,West,698,161,859,63,31,Fall
+2025-07-22,Home Appliances,Vacuum Cleaner,East,262,89,351,69,75,Fall
+2025-02-16,Electronics,Mobile,West,932,156,1088,13,12,Spring
+2025-06-02,Electronics,Laptop,East,940,163,1103,13,79,Spring
+2025-03-11,Furniture,Chair,East,854,151,1005,61,46,Fall
+2025-08-17,Apparel,Shirts,West,753,94,847,8,31,Winter
+2025-09-10,Home Appliances,Vacuum Cleaner,West,289,48,337,54,42,Summer
+2025-01-13,Apparel,Jeans,North,101,24,125,52,42,Spring
+2025-03-29,Electronics,Camera,West,547,131,678,60,44,Summer
+2025-04-15,Furniture,Sofa,North,913,163,1076,92,46,Summer
+2025-08-16,Home Appliances,Vacuum Cleaner,East,675,183,858,24,70,Fall
+2025-12-12,Apparel,Shirts,West,125,185,310,14,67,Spring
+2025-07-19,Furniture,Table,East,703,143,846,27,82,Fall
+2025-11-26,Home Appliances,Microwave,West,532,66,598,71,80,Spring
+2025-10-16,Home Appliances,Mixer,East,656,136,792,94,77,Summer
+2025-11-20,Apparel,Jeans,East,824,92,916,22,31,Fall
+2025-11-27,Home Appliances,Microwave,North,907,117,1024,62,77,Spring
+2025-12-13,Furniture,Table,South,559,43,602,92,39,Spring
+2025-05-19,Furniture,Table,North,436,64,500,38,15,Fall
+2025-09-21,Groceries,Snacks,East,515,135,650,47,43,Summer
+2025-03-12,Home Appliances,Vacuum Cleaner,East,943,137,1080,85,24,Fall
+2025-10-24,Groceries,Snacks,West,229,61,290,41,31,Winter
+2025-01-26,Electronics,Camera,West,976,16,992,24,57,Summer
+2025-11-06,Electronics,Camera,South,355,89,444,40,58,Winter
+2025-08-01,Electronics,Laptop,North,259,56,315,5,23,Winter
+2025-07-27,Home Appliances,Vacuum Cleaner,South,532,54,586,2,36,Fall
+2025-04-10,Electronics,Camera,South,221,124,345,91,68,Winter
+2025-03-08,Furniture,Chair,South,291,100,391,52,28,Spring
+2025-06-07,Electronics,Camera,West,417,82,499,7,47,Fall
+2025-09-03,Apparel,Shoes,East,710,88,798,84,26,Fall
+2025-06-11,Furniture,Sofa,East,252,112,364,71,41,Summer
+2025-11-24,Apparel,Jeans,West,134,81,215,17,27,Winter
+2025-11-24,Groceries,Beverages,East,933,95,1028,90,32,Summer
+2025-12-07,Groceries,Vegetables,West,529,20,549,19,23,Spring
+2025-10-27,Electronics,Camera,East,534,128,662,39,51,Winter
+2025-11-22,Home Appliances,Mixer,South,962,114,1076,49,39,Winter
+2025-08-22,Furniture,Chair,North,904,19,923,23,60,Spring
+2025-09-21,Apparel,Shoes,South,885,65,950,25,36,Winter
+2025-12-19,Groceries,Beverages,East,465,73,538,51,47,Spring
+2025-08-01,Home Appliances,Vacuum Cleaner,North,242,44,286,67,86,Summer
+2025-06-21,Electronics,Laptop,North,283,89,372,35,76,Spring
+2025-11-24,Groceries,Beverages,West,198,20,218,22,71,Summer
+2025-09-26,Apparel,Shirts,South,236,148,384,66,45,Spring
+2025-12-08,Groceries,Snacks,North,692,72,764,48,31,Fall
+2025-10-22,Apparel,Jeans,South,998,163,1161,100,65,Fall
+2025-10-15,Electronics,Laptop,South,646,45,691,34,82,Summer
+2025-01-02,Furniture,Sofa,South,881,29,910,49,46,Spring
+2025-02-23,Home Appliances,Mixer,East,575,16,591,87,85,Fall
+2025-09-26,Apparel,Shoes,South,398,27,425,7,79,Spring
+2025-06-10,Home Appliances,Microwave,East,549,97,646,38,89,Winter
+2025-08-11,Groceries,Snacks,North,382,149,531,51,11,Fall
+2025-09-16,Home Appliances,Microwave,West,404,85,489,33,44,Fall
+2025-01-15,Apparel,Jeans,South,703,190,893,84,28,Winter
